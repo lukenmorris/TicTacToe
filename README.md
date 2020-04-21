@@ -8,9 +8,17 @@ This project used Minimax to enhance the intelligence of the AI.
 Minimax is a decision rule that is used in artificial intelligence, decision theory, game
 theory, statistics and philosophy to minimize the potential loss for a worst case scenario. 
 
-# This project could not be completed without the help of many references:
+# Java Files
 
-# References:
+Position.java - Primary Java file that defines the game board, rules and the minimax algorithm.
+PositionTest.java - Test file used to execute and test certain code functions.
+Game.java - Executes the game, creates visual game board, and allows for an interactive game experience.
+
+# Known Issues
+
+- Moves are overwritten when clicked on. (Ex. If you click on "x" and you are "o", then the space will turn "o".
+
+# This project could not be completed without the help of many references:
 https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d
 https://www.w3schools.com/java/
 https://www.w3schools.com/java/java_hashmap.asp
