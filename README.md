@@ -13,7 +13,9 @@ theory, statistics and philosophy to minimize the potential loss for a worst cas
 # Java Files
 
 Position.java - Primary Java file that defines the game board, rules and the minimax algorithm.
+
 PositionTest.java - Test file used to execute and test certain code functions.
+
 Game.java - Executes the game, creates visual game board, and allows for an interactive game experience.
 
 # Known Issues
@@ -22,8 +24,13 @@ Game.java - Executes the game, creates visual game board, and allows for an inte
 
 # This project could not be completed without the help of many references:
 https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d
+
 https://www.w3schools.com/java/
+
 https://www.w3schools.com/java/java_hashmap.asp
+
 https://www.w3schools.com/java/java_arraylist.asp
+
 http://tutorials.jenkov.com/java-collections/map.html
+
 https://www.tutorialspoint.com/java/java_using_comparator.htm
