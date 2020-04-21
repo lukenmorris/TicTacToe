@@ -10,6 +10,9 @@ This project used Minimax to enhance the intelligence of the AI.
 Minimax is a decision rule that is used in artificial intelligence, decision theory, game
 theory, statistics and philosophy to minimize the potential loss for a worst case scenario. 
 
+# Function
+This java program uses integer variables to define the user and the computers actions.
+
 # Java Files
 
 Position.java - Primary Java file that defines the game board, rules and the minimax algorithm.
