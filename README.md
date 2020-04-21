@@ -2,6 +2,7 @@
 
 Welcome to Luke's TicTacToe.
 
+Dedicated to Mr.Albinson's Meme Classroom.
 This project used Minimax to enhance the intelligence of the AI.
 
 # What is Minimax?
