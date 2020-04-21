@@ -11,7 +11,7 @@ Minimax is a decision rule that is used in artificial intelligence, decision the
 theory, statistics and philosophy to minimize the potential loss for a worst case scenario. 
 
 # Function
-This java program uses integer variables to define the user and the computers actions.
+This java program uses integer variables and ArrayLists to define the user and the computers actions.
 
 # Java Files
 
