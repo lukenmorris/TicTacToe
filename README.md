@@ -1,4 +1,4 @@
-# Luke's TicTacToe with Minimax-Integration
+# Luke's TicTacToe with Minimax Integration
 
 Welcome to Luke's TicTacToe.
 
