@@ -20,7 +20,7 @@ Game.java - Executes the game, creates visual game board, and allows for an inte
 
 # Known Issues
 
-- Moves are overwritten when clicked on. (Ex. If you click on "x" and you are "o", then the space will turn "o".
+- Moves are overwritten when clicked on. (Ex. If you click on "x" and you are "o", then the space will turn "o".)
 
 # This project could not be completed without the help of many references:
 https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d
